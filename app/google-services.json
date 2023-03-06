@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "504479201131",
+    "firebase_url": "https://insight-fb656-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "insight-fb656",
+    "storage_bucket": "insight-fb656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504479201131:android:ce5eb55fe7021fd0f07e2e",
+        "android_client_info": {
+          "package_name": "com.abmtech.insight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504479201131-og4l80dem84ejfud49rfvmsl5p9q9nft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBROIgA3bwjrGM1xhzrKFXW4Su7up6ujNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504479201131-jh1c226kvqkn1m562c7e3n035429g28k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
